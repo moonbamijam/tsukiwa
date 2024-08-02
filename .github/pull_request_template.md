@@ -1,4 +1,5 @@
-# Type of Change 
+# Type of Change
+
 _Check what's necessary or check all if applicable. **Please remove options that are not checked**_
 
 - [ ] BREAKING CHANGE (change that would cause existing functionality to not work as expected)
@@ -19,6 +20,7 @@ _Please provide atleast a short description of this pr._
 ###
 
 # Related Tickets
+
 _If this pr contains related or close an issue, please add them here_
 
 - Related Issue(s) #
@@ -31,6 +33,7 @@ _If this pr contains related or close an issue, please add them here_
 _Please provide atleast a short description on how to test these changes. List also any relevant details for your test configuration_
 
 **Test Configuration**:
-* Browser:
-* Browser version:
-* Text editor:
+
+- Browser:
+- Browser version:
+- Text editor:
