@@ -1,4 +1,3 @@
-
 a place where your "waifus" matter~
 
 tsukiwa is a free and fun way to organize and rank your waifus.

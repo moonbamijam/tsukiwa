@@ -1,0 +1,10 @@
+# Ignore artifacts:
+build
+coverage
+
+# HTML files
+*.html
+
+# Dependencies
+package.json
+pnpm-lock.yaml
