@@ -13,13 +13,13 @@
 
 # Description
 
-<!-- Please provide atleast a short description of this pr. -->
+<!-- Please provide at least a short description of this pr. -->
 
 ###
 
 # Related Tickets
 
-<!-- _If this pr contains related or close an issue, please add them here. -->
+<!-- _If this pull request contains related or close an issue, please add them here. -->
 
 - Related Issue(s) #
 - Closes #
